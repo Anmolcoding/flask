@@ -2,7 +2,7 @@
 
 Getting Started
 
-Clone the repository: git clone https://github.com/LondheShubham153/python-for-devops-masterclass.git
+Clone the repository: git clone https://github.com/Anmolcoding/flask.git
 
 cd advanced/
 
